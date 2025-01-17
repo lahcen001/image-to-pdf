@@ -7,11 +7,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <div className="flex items-center">
           <Link to="/" className="flex items-center">
-            <img 
-              src="/logo.png" 
-              alt="Logo" 
-              className="h-8 w-auto"
-            />
+            
             <span className="ml-2 text-xl font-semibold text-gray-800">Photo to PDF</span>
           </Link>
         </div>
