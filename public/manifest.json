@@ -1,0 +1,9 @@
+{
+  "short_name": "Image2PDF",
+  "name": "Image to PDF Converter",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
